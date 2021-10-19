@@ -28,7 +28,9 @@ class CreditsState extends MusicBeatState
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
 		[''],
-		['Engine Contributors'],
+		['Cyber Engine'],
+		['MrClogsworthYT,               'mrclogsworthyt',       'Main programmer of cyber engine',                               'https://youtube.com/c/MrClogsworthYT',        OxFFFFFF],
+		['Psych engine Contributors
 		['shubs',				'shubs',			'New Input System Programmer',						'https://twitter.com/yoshubs',			0xFF4494E6],
 		['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',						'https://twitter.com/polybiusproxy',	0xFFE01F32],
 		['gedehari',			'gedehari',			'Chart Editor\'s Sound Waveform base',				'https://twitter.com/gedehari',			0xFFFF9300],
